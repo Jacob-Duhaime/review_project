@@ -1,5 +1,7 @@
 #include <iostream>
 
+//written by Angel and Jacob
+
 int getUser(){
     //This function runs and uses an integer and returns the choice for the member data that you wish to use.
     //This means that if option 1 is member "user", then you will be accessing the data set for "user", which
