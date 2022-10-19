@@ -1,6 +1,7 @@
 #include <iostream>
 
 //written by Angel and Jacob
+//NOTE: THIS FUNCTION WAS A TEST FUNCTION, THIS MAY NOT BE IMPLEMENTED INTO THE FINAL VERSION OF THE PROGRAM.
 
 int getUser(){
     //This function runs and uses an integer and returns the choice for the member data that you wish to use.
