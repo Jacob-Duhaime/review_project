@@ -1,4 +1,4 @@
-<><><><><><><><><><><><>Introduction<><><><><><><><><><><><>
+#<><><><><><><><><><><><>Introduction<><><><><><><><><><><><>
 
 Hello! Welcome to Final grade calculator presented to you by:
 Angel Pichardo De La Cruz, Jacob Duhaime, Nicholas Faciano and Harry Grenier.
