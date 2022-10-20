@@ -16,7 +16,20 @@ your performance in this class.
 proof of planning: pseudocode (and or flowcharts showing program logic if desired)
 */
 main.cpp:
-
+  create user choice vaiable
+  output the title 
+  output for the user choice
+  get the user choice 
+  create user list
+  make choice grammatically correct
+  check is choice is valid
+    if not ask for choice again
+  constructs userchoice class to begin calculations
+  creates a calculated grade variable
+  run the grade calulations and set the output to the grade functiom
+  checks if grade is over or under the proper threshold 
+    outputs the right responce for the grade
+   exits main()
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 calc.h:
@@ -31,6 +44,7 @@ create dataset for review project
 declare public variables
 constructer for calc class
 declare a function to get user grades
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 calc.cpp:
 main code using data in header to make program "do stuff"
