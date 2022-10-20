@@ -18,13 +18,31 @@ proof of planning: pseudocode (and or flowcharts showing program logic if desire
 main.cpp:
 
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 calc.h:
-
-
-
-
+Create class
+store private variables
+private variables - user, users list
+create datasets for users using grades for each assignment
+create dataset for labs
+create dataset for term project
+create dataset for final exam
+create dataset for review project
+declare public variables
+constructer for calc class
+declare a function to get user grades
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 calc.cpp:
+main code using data in header to make program "do stuff"
+Create constructor using user inputted username
+create the pre declared function to get calc grade{
+find index of user inputted username
+using that index find corresponding scores for each assignment
+summation of total assignments and all other course requirements
+divide total accumulated points by total possible points
+return the final grade that was calculated
+}
+
 
 
 <><><><><><><><><><><><>Program Description<><><><><><><><><><><><>
