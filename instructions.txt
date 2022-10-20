@@ -15,6 +15,17 @@ your performance in this class.
 <><><><><><><> Pseudocode <><><><><><> ----------------------------------------------------PENDING----------------------------------------------------
 proof of planning: pseudocode (and or flowcharts showing program logic if desired)
 */
+main.cpp:
+
+
+
+calc.h:
+
+
+
+
+calc.cpp:
+
 
 <><><><><><><><><><><><>Program Description<><><><><><><><><><><><>
 
