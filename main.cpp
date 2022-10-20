@@ -2,9 +2,11 @@
 #include <string>
 #include <algorithm>
 #include "calc.h"
+// calls the needed function and the calculation function
 
 int main(){
     std::string choice;
+    // initializes choice  
 
     std::cout << "Welcome to the CSC 212 Grade Calculator" << std::endl;
     std::cout << "Which user would you like to calculate the grade for?" << std::endl;
