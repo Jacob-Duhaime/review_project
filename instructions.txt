@@ -11,10 +11,10 @@ The purpose of this program is to calculate your CSC 2212 final grade based on y
 final project, MEC project. After the program is done calculating your grade, it will spit out a funny message depending on 
 your performance in this class. 
 
-/*
 <><><><><><><> Pseudocode <><><><><><> ----------------------------------------------------PENDING----------------------------------------------------
 proof of planning: pseudocode (and or flowcharts showing program logic if desired)
-*/
+
+
 main.cpp:
   create user choice vaiable
   output the title 
