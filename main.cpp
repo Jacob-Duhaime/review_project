@@ -38,14 +38,14 @@ int main(){
         std::cout << "You are doing great!" << std::endl;
     }
     // shows the output if you are passing
-    else if (user_grade >= 50){
+    else if (user_grade >= 60){
         std::cout << "There is still hope for you" << std::endl;
     }
     //shows the output if you arnt passing but not compleatly failing
-    else if (user_grade < 50){
+    else if (user_grade < 60){
         std::cout << "There is no hope for you... :(" << std::endl;
     }
-    //shows the output if you are failing and below a 50
+    //shows the output if you are failing and below a 60
 
     return 0;
     // exits the main program
