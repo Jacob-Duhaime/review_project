@@ -8,12 +8,10 @@ The purpose of this project is to apply all of the knowledge used in CSC 211 and
 <br>
 
 <h2>Program Description</h2>
-<br>
 The algorithm for this program takes for input the name of the member that you wish to gather their grade from. The algorithm will take that name, go into a data set of vectors that has the index of each team member and it will return the calculation for that user's grade based on their index. For example, if Bob Smith is the input and Bob Smith equals index 1, that will return the data from index 1 from all of the vectors and it will calculate it to a final grade. The data set used for this program is static (meaning that it was set manually by a user) but it can be changed and will be demonstrated in the video showing how to execute our program. Once you input the name of the data member, it will outputa double which has the final calculated grade based on your performance. 
 <br>
 
 <h2>Important to know</h2>
-<br>
 The grade criteria of this class is as it follows:
 <br>
 Labs are worth 50 points. In this class there are 10 labs.
@@ -25,3 +23,4 @@ The Term Project, fancy for Final project, is worth 350 pints which is 35% of yo
 The Final Exam for this class is worth 100 points.
 <br>
 Aditionally, the Review Project is worth 30 points.
+
