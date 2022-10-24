@@ -14,13 +14,15 @@ The algorithm for this program takes for input the name of the member that you w
 <h2>Important to know</h2>
 The grade criteria of this class is as it follows:
 <br>
-Labs are worth 50 points. In this class there are 10 labs.
+- Labs are worth 50 points. In this class there are 10 labs.
 <br>
-There are 5 Programming Assignments	5, each worth 100 points which makes up for 50% of the grade for this class
+- There are 5 Programming Assignments	5, each worth 100 points which makes up for 50% of the grade for this class.
 <br>
-The Term Project, fancy for Final project, is worth 350 pints which is 35% of your grade.
+- The Term Project, fancy for Final project, is worth 350 pints which is 35% of your grade.
 <br>
-The Final Exam for this class is worth 100 points.
+- The Final Exam for this class is worth 100 points.
 <br>
-Aditionally, the Review Project is worth 30 points.
+- Aditionally, the Review Project is worth 30 points.
+<br>
 
+<h2>For more information about this project and how to compile it or edit it, please look into our <b>instructions.txt</b> file </h2>
