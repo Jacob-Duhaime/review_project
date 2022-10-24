@@ -99,6 +99,8 @@ In order to customize the program by changing the data, adding new members or de
 tweaking. First, you will have to open our header file which is "calc.h". Once you open it, you can change group member names, change
 the grades for assignment and or even add more members and grades to the database. NOTE: Since the program is static assigned values,
 that means that if you edit the first name in the vector and you wish to edit the grades, you will have to also edit the first element 
-in each vector to reflec tthe accurate grades. If you just add at to the end of the vectors, then there is nothing to worry about.
+in each vector to reflec tthe accurate grades. If you just add it to the end of the vectors, then there is nothing to worry about. Once 
+you are done editing the program, make sure you save all the files (calc.h, calc.cpp and main.cpp). After saving them, re compile the 
+program to then run it and your new edits will reflect. 
 
 
