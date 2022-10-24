@@ -81,7 +81,7 @@ In order to compile the program, you will have to go the main folder where the p
 free to extract it anywhere into your computer. To compile, you will open an IDE of your choice. You want to change directory
 (cd) into the directory where you have extracted the program. For example, if the program was extracted into a folder onto your 
 desktop named "calculator", you will input something like this into your terminal: " cd/desktop/calculator ". After your IDE
-is in the directory where the program lives, you will then proceed to compile it by typing "g++ EDIT.cpp EDIT2.CPP". If successful, 
+is in the directory where the program lives, you will then proceed to compile it by typing "g++ calc.cpp main.CPP". If successful, 
 this will then create another file called "a.out". 
 
 >>>>>>>>>>>>RUNNING THE PROGRAM<<<<<<<<<<<<<<
@@ -95,5 +95,10 @@ items).
 
 >>>>>>>>>>>>Customizing the program to your liking<<<<<<<<<<<<<<
 
+In order to customize the program by changing the data, adding new members or deleting them, you will have to do a little bit of
+tweaking. First, you will have to open our header file which is "calc.h". Once you open it, you can change group member names, change
+the grades for assignment and or even add more members and grades to the database. NOTE: Since the program is static assigned values,
+that means that if you edit the first name in the vector and you wish to edit the grades, you will have to also edit the first element 
+in each vector to reflec tthe accurate grades. If you just add at to the end of the vectors, then there is nothing to worry about.
 
 
