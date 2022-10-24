@@ -25,4 +25,4 @@ The grade criteria of this class is as it follows:
 - Aditionally, the Review Project is worth 30 points.
 <br>
 
-<h2>For more information about this project and how to compile it or edit it, please look into our <b>instructions.txt</b> file </h2>
+<h3>For more information about this project and how to compile it or edit it, please look into our <b>instructions.txt</b> file </h3>
