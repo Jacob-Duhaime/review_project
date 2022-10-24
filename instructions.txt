@@ -7,7 +7,7 @@ GitHub repo address: https://github.com/Jacob-Duhaime/review_project
 
 Welcome to the 212 final grade calculator! 
 
-The purpose of this program is to calculate your CSC 2212 final grade based on your performance on assignments, labs, exams,
+The purpose of this program is to calculate your CSC 212 final grade based on your performance on assignments, labs, exams,
 final project, MEC project. After the program is done calculating your grade, it will spit out a funny message depending on 
 your performance in this class. 
 
@@ -60,18 +60,6 @@ return the final grade that was calculated
 
 <><><><><><><><><><><><>Program Description<><><><><><><><><><><><>
 
-The algorithm for this program takes for input the name of the member that you wish to gather their grade from and the 
-algorithm will take that name, go into a data set of vectors that has the index of each team member and it will return 
-the calculation for that user's grade based on their index. For example, if Bob Smith is the input and Bob Smith equals 
-index 1, that will return the data from index 1 from all of the vectors and it will calculate it to a final grade. The 
-data set used for this program is static (meaning that it was set manually by a user) but it can be changed and will be
-demonstrated in the video showing how to execute our program. Once you input the name of the data member, it will output
-a double which has the final calculated grade based on your performance. 
-
-The development for this program was important to our group because it helped all of us learn and grow more as a team.
-One of the main things we ran into a lot in the beginning was on how to tackle the creation of this program. There were
-many variety of ideas, many ranging from simple, more complex, more advanced, you name it and it was though of during
-the drafting period for this program. 
 
 <><><><><><><><><><><><>How to Compile<><><><><><><><><><><><>
 
