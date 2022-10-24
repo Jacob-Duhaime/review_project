@@ -1,4 +1,5 @@
 # Welcome to CSC 212 Grade Calculator!
-what the fortnite 
+
+Presented to you by: Angel Pichardo De La Cruz, Jacob Duhaime, Nicholas Faciano and Harry Grenier.
 <br>
-#How do I how do I
+
