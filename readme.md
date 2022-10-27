@@ -2,7 +2,7 @@
 
 Presented to you by: Angel Pichardo De La Cruz, Jacob Duhaime, Nicholas Faciano and Harry Grenier.
 <br>
-https://github.com/Jacob-Duhaime/review_project
+GitHub Link: https://github.com/Jacob-Duhaime/review_project
 <br>
 Project Video: https://www.youtube.com/watch?v=3uXdSAJZwyg
 <h2>Project Description </h2>
