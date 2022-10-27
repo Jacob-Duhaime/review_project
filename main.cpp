@@ -17,11 +17,12 @@ int main(){
     // choose a user and check if they are in the vector of users 
 
     choice[0] = toupper(choice[0]);
-    //makes sure that the fisrt letter in the choice is uppercase so that the formating is right.
+    //makes sure that the first letter in the choice is uppercase so that the formating is right.
     
     while ((choice != userlist[0]) && (choice != userlist[1]) && (choice != userlist[2]) && (choice != userlist[3])){
         std::cout << "Sorry! That is not a valid user, please try again." << std::endl;
         std::cin >> choice;
+        choice[0] = toupper(choice[0]);
     }
     //If the choice isnt in the user list retry to get choice.
     
